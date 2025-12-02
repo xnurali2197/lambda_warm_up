@@ -1,1 +1,1 @@
-# lambda_warm_up
+just daily warm up exersice of python
